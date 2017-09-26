@@ -6,3 +6,13 @@ src/entry
 .DS_Store
 npm-debug.log
 package-lock.json
+
+android/*.iml
+android/.gradle
+android/local.properties
+android/.idea/workspace.xml
+android/.idea/libraries
+android/.DS_Store
+android/build
+android/captures
+android/.externalNativeBuild
